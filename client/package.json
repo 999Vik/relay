@@ -3,7 +3,8 @@
     "version": "1.0.0",
     "private": true,
     "dependencies": {
-        "@chakra-ui/react": "^2.3.5",
+        "@chakra-ui/react": "^2.10.3",
+        "@chakra-ui/toast": "^7.0.2",
         "@emotion/react": "^11.10.4",
         "@emotion/styled": "^11.10.4",
         "@reduxjs/toolkit": "^1.9.7",
